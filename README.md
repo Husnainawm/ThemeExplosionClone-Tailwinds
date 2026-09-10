@@ -2,9 +2,8 @@ Theme Explosion Clone — Tailwind CSS
 
 A responsive e-commerce landing page built from scratch using HTML and Tailwind CSS, cloning the "Theme Explosion" fashion store template. Built as a practice project to strengthen real-world Tailwind skills — responsive layouts, hover interactions, custom animations, and component-based design.
 
-🔗 Live Demo
-
 🌐 View Live Site
+https://theme-explosion-clone-tailwinds-357.vercel.app/
 
 📸 Preview
 
@@ -14,8 +13,6 @@ A responsive e-commerce landing page built from scratch using HTML and Tailwind 
 <img width="1771" height="892" alt="image" src="https://github.com/user-attachments/assets/a37debf0-024c-4205-b29d-bdd6b35ea1b7" />
 <img width="1694" height="941" alt="image" src="https://github.com/user-attachments/assets/153b5a15-0bb8-46e4-87c5-95a7fb34b604" />
 
-md
-![Preview](src/Imgs/preview.png)
 ✨ Features
 Fully responsive layout (mobile, tablet, desktop breakpoints)
 Multi-level hover dropdown navigation (mega menu style)
